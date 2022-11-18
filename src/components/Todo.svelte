@@ -68,7 +68,7 @@
     padding: 10px 14px;
     border-radius: 6px;
     &:hover {
-      background-color: $gray-100;
+      background-color: gray;
     }
     .edit-mode,
     .normal-mode {
