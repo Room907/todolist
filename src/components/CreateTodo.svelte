@@ -44,6 +44,10 @@
       font-weight: 700;
       margin-left: 10px;
       flex-shrink: 0;
+      border: none;
+      &-primary {
+        background-color: $primary;
+      }
     }
   }
 </style>
